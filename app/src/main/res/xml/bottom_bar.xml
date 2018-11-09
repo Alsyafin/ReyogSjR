@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        titleSize="6dp"
+        title="Home"
+        />
+    <tab
+        id="@+id/tab_tokoh"
+        icon="@drawable/ic_directions_walk_black_24dp"
+        titleSize="6dp"
+        title="Tokoh"
+        />
+    <tab
+        id="@+id/tab_musik"
+        icon="@drawable/ic_library_music_black_24dp"
+        titleSize="6dp"
+        title="Musik"
+        />
+    <tab
+        id="@+id/tab_video"
+        icon="@drawable/ic_person_black_24dp"
+        titleSize="6dp"
+        title="Video"
+        />
+</Tab>
